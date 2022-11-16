@@ -1,3 +1,6 @@
+%% We thank Prof. Zhihua Xie of Jiangxi University of Science and Technology for providing MATLAB support.
+
+
 function ch=cchdm(m)
 N=log2(m);
 x=hadamard(m);
