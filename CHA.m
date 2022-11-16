@@ -1,3 +1,5 @@
+% We thank Prof. Zhihua Xie of Jiangxi University of Science and Technology for providing MATLAB support.
+
 tic
 clear;%  清楚内存中所有的或指定的变量
 CHA1=0;
